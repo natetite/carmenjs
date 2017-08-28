@@ -5,7 +5,9 @@
 Fast and dirty, this is a proof of concept.
 It's completely encapsulated so no external CSS is needed, however, a global styling reset/normalize CSS file is a good idea. Invoking the Carmen Search is as easy as:
 
-# new Carmen()
+```
+new Carmen()
+```
 
 Easy peasy, lemon squeezy.
 
